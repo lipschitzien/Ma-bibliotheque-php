@@ -1,0 +1,48 @@
+body {
+	font-family: Arial, Verdana, sans-serif;
+}
+
+.main{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.lien{
+    font-size: 18px;
+}
+
+caption {
+    width:100%;
+    padding: 10px;
+    caption-side: top;
+    text-align: center;
+}
+
+table {
+    width: 500px;
+	border: solid 1px #bdbdbd;
+	text-align: center;
+}
+
+tr:nth-child(even) {
+	background-color: #e0e0e0;
+}
+
+th{
+    color: whitesmoke;
+	background-color: cornflowerblue;
+}
+
+th, td {
+	padding: 5px;
+	text-align: center;
+}
+
+@media all and (max-width: 1156px){
+    body{
+        width: auto;
+    }
+}

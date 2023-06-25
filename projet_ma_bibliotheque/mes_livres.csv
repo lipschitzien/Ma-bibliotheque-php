@@ -1,0 +1,9 @@
+TITRE,PRENOM,NOM,CATEGORIE
+titre1,prenom1,nom1," aventures  conte  fantasy "
+titre2,prenom2,nom2," biographie "
+titrR1,preNom1,Nom1," aventures  conte "
+titre3,prenom3,nom3," fantasy  horreur  romance "
+titre4,prenom4,nom4," aventures  fantasy  horreur "
+titre5,prenom5,nom5," aventures  fantasy "
+TITRE,PRENOM,NOM," aventures  fantasy "
+titre12,prenom12,nom12," romance  biographie "
